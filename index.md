@@ -9,10 +9,8 @@ permalink: /
 # The DiscoX
 {: .fs-9 }
 
-This website is currently a work in progress.
+This website provides the most upto date technical infomation about the DiscoX cave survey device. 
 
-It will provide the most upto date technical infomation about the DiscoX cave survey device. 
-
-The DiscoX is a cave surveying device based on the SAP6 platform. The main differences being, the case design, user interface and microcontroller hardware. 
+The DiscoX is based on the SAP6 platform. The main differences being, the case design, user interface and microcontroller hardware. 
 
 [DiscoX repo]: https://github.com/blhall195/Mr_Zappy
